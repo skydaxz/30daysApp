@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">10 Days of Good Habits</string>
+    <string name="day_one">Day 1</string>
+    <string name="day_two">Day 2</string>
+    <string name="day_three">Day 3</string>
+    <string name="day_four">Day 4</string>
+    <string name="day_five">Day 5</string>
+    <string name="day_six">Day 6</string>
+    <string name="day_seven">Day 7</string>
+    <string name="day_eight">Day 8</string>
+    <string name="day_nine">Day 9</string>
+    <string name="day_ten">Day 10</string>
+    <string name="top_description_one">Drink an average of 3 liters of water per day</string>
+    <string name="top_description_two">Work out at the gym at least 3 times per week</string>
+    <string name="top_description_three">Take cold showers every day</string>
+    <string name="top_description_four">Reduce your sugar intake</string>
+    <string name="top_description_five">Read books</string>
+    <string name="top_description_six">Eat healthy foods</string>
+    <string name="top_description_seven">Sleep on the side or back</string>
+    <string name="top_description_eight">Brush your teeth twice a day</string>
+    <string name="top_description_nine">Sleep 8 hours a day</string>
+    <string name="top_description_ten">Have a skincare routine</string>
+    <string name="bottom_description_one">Water is vital to our health. It plays a key role in many of our body\'s functions,
+        including bringing nutrients to cells, getting rid of wastes, protecting joints and organs, and maintaining body
+        temperature.</string>
+    <string name="bottom_description_two">Going to the gym can improve your brain health, help manage weight, reduce the risk
+        of disease, strengthen bones and muscles, and improve your ability to do everyday activities.</string>
+    <string name="bottom_description_three">The benefits of cold showers include boosting the immune system, combating symptoms
+        of depression, improving blood circulation, and reducing inflammation and swelling.</string>
+    <string name="bottom_description_four">Reducing your sugar intake may support a healthy weight, decrease your risk of
+        depression, and reduce your risk of heart disease, among other health benefits.</string>
+    <string name="bottom_description_five">Reading improves your focus, memory, empathy, and communication skills.
+        It can reduce stress, improve your mental health, and help you live longer.</string>
+    <string name="bottom_description_six">Eating healthy foods is essential for maintaining overall health and well-being. Aim
+        to incorporate a diverse range of fruits, vegetables, whole grains, lean proteins, and healthy fats into your meals and
+        snacks.</string>
+    <string name="bottom_description_seven">sleeping on the side or back is considered more beneficial than sleeping on the
+        stomach. In either of these sleep positions, it\'s easier to keep your spine supported and balanced, which relieves
+        pressure on the spine and enables your muscles to relax and recover.</string>
+    <string name="bottom_description_eight">It\'s important to maintain good oral hygiene by brushing your teeth at least twice
+        a day, ideally in the morning and before bed. This routine helps remove plaque and prevents tooth decay and gum disease.
+        Using fluoride toothpaste and a soft-bristled toothbrush can help keep your teeth and gums healthy. </string>
+    <string name="bottom_description_nine">Adequate sleep is crucial for overall health and well-being. It supports physical
+        health by promoting immune function, reducing the risk of chronic diseases, and regulating weight. In terms of mental
+        health, sleep aids emotional regulation, enhances cognitive function, and stabilizes mood. </string>
+    <string name="bottom_description_ten">Having a skincare routine is essential for maintaining healthy, radiant skin and
+        preventing skin issues and environmental damage.</string>
+    <string name="expand_button_content_description">See more or less information about the habit.</string>
+</resources>
